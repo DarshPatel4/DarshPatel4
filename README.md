@@ -44,11 +44,6 @@
 
 <br>
 
-## 📈 Graph
-<p align="center">
-   <img src="https://github.com/DarshPatel4/DarshPatel4/blob/main/svg.svg" alt="snake">
-</p>
- 
 ## Github Stats 🏆
 
 <img  src="https://github-readme-stats.vercel.app/api?username=DarshPatel4&count_private=true&show_icons=true&theme=gotham" width="48%" align="right" >
