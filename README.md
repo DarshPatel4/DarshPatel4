@@ -14,6 +14,60 @@
 
 <img align="center" width="400" src="mygif.gif">
 
+
+<div align="center">
+
+<h1 align="center">Languages and Tools</h1>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="65" height="65" />
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+      <br>CSS3
+    </td>
+  </tr>
+</table>
+
+
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
+    <a href="https://wakatime.com/@fab123">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshPatel4&theme=material-palenight&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<br>
+
 ## Most Used Languages ✎: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshPatel4&theme=react)](https://github.com/DarshPatel4/github-readme-stats)
