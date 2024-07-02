@@ -70,10 +70,7 @@
 
 ## Most Used Languages ✎: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshPatel4&theme=react)](https://github.com/DarshPatel4/github-readme-stats)
-
-<br>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshPatel4&layout=compact)
 ## Other Tools:  🔧
 
 <p align="left">
