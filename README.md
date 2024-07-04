@@ -2,15 +2,16 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDarshPatel4%2FDarshPatel4&label=VISITORS&countColor=%23263759&labelStyle=upper)
 <ul dir="auto">
-<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> CTO @ <a href="https://404dev.in" rel="nofollow"> 404DEV</a></li>
-<li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I’ve keen interest in Web-App, AI and many other...</li>
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning DSA with JAVA.</li>
+<!-- <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> CTO @ <a href="https://404dev.in" rel="nofollow"> 404DEV</a></li>
+<li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I’ve keen interest in Web-App, AI and many other...</li> -->
+<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning DSA, Machine Learning, Full Stack Development.</li>
 <!-- <li><g-emoji class="g-emoji" alias="revolving_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49e.png">💞️</g-emoji> I’m looking to collaborate on any Open Source Project.</li> -->
 <li> 🔗 How to reach me:  <a href="mailto:jayjalaram25104@gmail.com"> jayjalaram25104@gmail.com </a></li>
 </ul>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB4FF&width=435&lines=C+%2F+C%2B%2B;PYTHON;JAVASCRIPT;MERN;RUBY;LARAVEL;SQL+%2F+PL+SQL;CORE+JAVA;PHP;THREE.JS)](https://404dev.in)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB4FF&width=435&lines=C+%2F+C%2B%2B;PYTHON;JAVASCRIPT;MERN;RUBY;LARAVEL;SQL+%2F+PL+SQL;CORE+JAVA;PHP;THREE.JS)](https://404dev.in)-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB4FF&width=435&lines=C+%2F+C%2B%2B;PYTHON;JAVASCRIPT;MERN;SQL+%2F+PL+SQL;JAVA;PHP)](https://404dev.in)
 
 <img align="center" width="400" src="mygif.gif">
 
@@ -23,6 +24,10 @@
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
