@@ -28,7 +28,7 @@
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
+      <br>PHP
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="65" height="65" />
