@@ -27,8 +27,20 @@
       <br>JavaScript
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" alt="JavaScript" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=php" alt="Php" width="65" height="65" />
       <br>PHP
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" alt="c" width="65" height="65" />
+      <br>C
+    </td>
+           <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="65" height="65" />
+      <br>C++
+    </td>
+                <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="65" height="65" />
+      <br>MySQL
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="65" height="65" />
