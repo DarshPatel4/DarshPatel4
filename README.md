@@ -114,7 +114,7 @@
 
 ## Github Stats 🏆
 
-<img  src="https://github-readme-stats.vercel.app/api?username=DarshPatel4&count_private=true&show_icons=true&theme=gotham" width="48%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=DarshPatel4&count_private=true&show_icons=true&theme=gotham" width="48%" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DarshPatel4&theme=gotham" width="48%" >
 <br>
 
