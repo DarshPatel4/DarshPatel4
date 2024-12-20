@@ -95,19 +95,19 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://github.com/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://tailwindui.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="40" height="40"/> </a> &nbsp; &nbsp;
+<!--     <a href="https://tailwindui.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="40" height="40"/> </a> &nbsp; &nbsp; -->
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://svgshare.com/i/r5K.svg" alt="express" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp; &nbsp;
+<!--     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://svgshare.com/i/r5K.svg" alt="express" width="40" height="40"/> </a> &nbsp; &nbsp; -->
+<!--     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp; &nbsp;
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;
    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="yarn" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://atom.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="atom" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://atom.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="atom" width="40" height="40"/> </a> &nbsp; &nbsp; -->
     <a href="https://www.mongodb.com/atlas/database/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; &nbsp;
-   <a href="https://www.coreldraw.com/en/" target="_blank" rel="noreferrer"> <img src="https://svgshare.com/i/r4y.svg" alt="CorelDraw" width="40" height="40"/> </a> &nbsp; &nbsp;
+<!--    <a href="https://www.coreldraw.com/en/" target="_blank" rel="noreferrer"> <img src="https://svgshare.com/i/r4y.svg" alt="CorelDraw" width="40" height="40"/> </a> &nbsp; &nbsp; -->
 </p>
 
 <br>
