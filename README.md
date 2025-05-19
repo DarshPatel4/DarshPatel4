@@ -141,8 +141,8 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DarshPatel4&theme=gotham" width="48%" >
 <br>
 
-## Leetcode Stats 🏆
+<!-- ## Leetcode Stats 🏆
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/DarshPatel1101?theme=nord&font=Ubuntu%20Mono&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/DarshPatel1101?theme=nord&font=Ubuntu%20Mono&ext=heatmap) -->
 
 <br>
