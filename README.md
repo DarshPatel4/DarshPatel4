@@ -4,13 +4,12 @@
 <ul dir="auto">
 <!-- <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> 
 <li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I’ve keen interest in Web-App, AI and many other...</li> -->
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning DSA, PHP, Web Development.</li>
+<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning MERN,.Net, Web Development.</li>
 <!-- <li><g-emoji class="g-emoji" alias="revolving_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49e.png">💞️</g-emoji> I’m looking to collaborate on any Open Source Project.</li> -->
 <li> 🔗 How to reach me:  <a href="mailto:darshpatel2531@gmail.com"> darshpatel2531@gmail.com </a></li>
 </ul>
 <br>
 
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB4FF&width=435&lines=C+%2F+C%2B%2B;JAVASCRIPT;MERN;SQL+%2F+PL+SQL)](https://404dev.in)-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB4FF&width=435&lines=C+%2F+C%2B%2B;JAVASCRIPT;MERN;SQL+%2F+PL+SQL)](https://404dev.in)
 
 
