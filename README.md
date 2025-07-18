@@ -116,10 +116,9 @@
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/> </a> &nbsp; &nbsp;
 <!--     <a href="https://tailwindui.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp; &nbsp;
-<!--     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://svgshare.com/i/r5K.svg" alt="express" width="40" height="40"/> </a> &nbsp; &nbsp; -->
-<!--     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp; &nbsp;
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;
-   href="https://www.mongodb.com/atlas/database/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; &nbsp;
+  <a href="https://www.mongodb.com/atlas/database/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; &nbsp;
 </p>
 
 <br>
@@ -130,8 +129,8 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DarshPatel4&theme=gotham" width="48%" >
 <br>
 
-<!-- ## Leetcode Stats 🏆
+## Leetcode Stats 🏆
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/DarshPatel1101?theme=nord&font=Ubuntu%20Mono&ext=heatmap) -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/DarshPatel1101?theme=nord&font=Ubuntu%20Mono&ext=heatmap) 
 
 <br>
