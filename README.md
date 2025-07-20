@@ -48,7 +48,7 @@
       <br>Figma
     </td> -->
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=dotnet" alt="Dotnet" width="65" height="65" />
       <br>Python
     </td>
 
@@ -107,7 +107,9 @@
 
 ## Most Used Languages ✎: 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshPatel4&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshPatel4&layout=compact)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=python,glsl,astro,makefile,rust,go&layout=compact)
+
 ## Other Tools:  🔧
 
 <p align="left">
