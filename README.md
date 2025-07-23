@@ -12,6 +12,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB4FF&width=435&lines=C+%2F+C%2B%2B;JAVASCRIPT;MERN;SQL+%2F+PL+SQL)](https://404dev.in)
 
+<p align="left">
+  <a href="[https://your-portfolio-link.com](https://my-portfolio-seven-kohl-68.vercel.app/)" target="_blank">
+    <img src="https://img.shields.io/badge/-Visit_My_Portfolio-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="My Portfolio">
+  </a>
+</p>
+
+
 
 <div align="center">
 
