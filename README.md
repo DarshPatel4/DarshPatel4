@@ -56,7 +56,7 @@
     </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" alt="Dotnet" width="65" height="65" />
-      <br>Python
+      <br>.Net
     </td>
 
   </tr>
