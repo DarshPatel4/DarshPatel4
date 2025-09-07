@@ -4,7 +4,7 @@
 <ul dir="auto">
 <!-- <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> 
 <li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I’ve keen interest in Web-App, AI and many other...</li> -->
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning MERN,.Net, Web Development.</li>
+<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning MERN, .Net, Web Development.</li>
 <!-- <li><g-emoji class="g-emoji" alias="revolving_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49e.png">💞️</g-emoji> I’m looking to collaborate on any Open Source Project.</li> -->
 <li> 🔗 How to reach me:  <a href="mailto:darshpatel2531@gmail.com"> darshpatel2531@gmail.com </a></li>
 </ul>
@@ -65,6 +65,7 @@
 
 
 <table align="center">
+  <tr>
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" alt="react" width="65" height="65" />
       <br>React
@@ -96,13 +97,19 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
+</table>
 
-</div>
 
 <br>
 <br>
-<br>
-<br>
+
 <br>
 
 <p align="center">
@@ -112,34 +119,22 @@
 </p>
 <br>
 
+
+## Github Stats 🏆
+
+<img  src="https://github-readme-stats.vercel.app/api?username=DarshPatel4&count_private=true&show_icons=true&theme=gotham" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=DarshPatel4&theme=gotham" width="48%" >
+<br>
+
+
 ## Most Used Languages ✎: 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshPatel4&layout=compact)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=python,glsl,astro,makefile,rust,go&layout=compact)
 
-## Other Tools:  🔧
 
-<p align="left">
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCODE" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://github.com/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/> </a> &nbsp; &nbsp;
-<!--     <a href="https://tailwindui.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp; &nbsp;
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;
-  <a href="https://www.mongodb.com/atlas/database/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; &nbsp;
-</p>
+<!-- ## Leetcode Stats 🏆
 
-<br>
-
-## Github Stats 🏆
-
-<img  src="https://github-readme-stats.vercel.app/api?username=DarshPatel4&count_private=true&show_icons=true&theme=gotham" width="48%" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=DarshPatel4&theme=gotham" width="48%" >
-<br>
-
-## Leetcode Stats 🏆
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/DarshPatel1101?theme=nord&font=Ubuntu%20Mono&ext=heatmap) 
+![LeetCode Stats](https://leetcard.jacoblin.cool/DarshPatel1101?theme=nord&font=Ubuntu%20Mono&ext=heatmap)  -->
 
 <br>
