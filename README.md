@@ -50,15 +50,14 @@
         <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="65" height="65" />
       <br>VSCode
     </td>
-<!--     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
-      <br>Figma
-    </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" alt="Dotnet" width="65" height="65" />
       <br>.Net
     </td>
-
+      <td align="center" width="96">
+        <img src="https://skills.syvixor.com/api/icons?i=n8n" width="65" height="65" alt="N8N" />
+      <br>N8N
+    </td> 
   </tr>
 </table>
 
@@ -94,12 +93,7 @@
         <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
       <br>CSS3
     </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
+        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
       <br>Postman
     </td>
